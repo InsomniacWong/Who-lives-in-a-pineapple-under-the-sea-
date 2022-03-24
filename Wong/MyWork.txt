@@ -14,11 +14,11 @@
 			·基于transformer的分类并预测
 二、文件结构
 	·文件夹
-		· voices：男女声分类的音频集
-		· vector：男女声分类的向量集
+		· voices：男女声分类的音频集#详见网盘
+		· vector：男女声分类的向量集#详见网盘
 
 	·txt
-		· Glove：训练后的glove词向量
+		· Glove：训练后的glove词向量#详见网盘
 		· 垃圾短信合集：带标注的短信数据
 		· Mywork：本文档
 
